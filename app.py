@@ -1,7 +1,7 @@
 from PyQt5 import QtWidgets, QtGui, QtCore
 from PyQt5.QtWidgets import QApplication, QMainWindow
 import sys
-from src.MainWindow import MainWindow
+from src.mainWindow import MainWindow
 import qtmodern.styles
 import qtmodern.windows
 

@@ -9,7 +9,7 @@ from threading import Thread
 from src.functions import *
 from src.TableModel import *
 from src.simulation import simulation
-from src.ResultWindow import ResultWindow
+from src.resultWindow import ResultWindow
 
 
 class MainWindow(QWidget):
